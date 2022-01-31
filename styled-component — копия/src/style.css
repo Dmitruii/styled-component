@@ -1,0 +1,12 @@
+* {
+  align-items: stretch;
+  width: 100%;
+  height: 70vh;
+  font-family: serif;
+  bottom: none;
+  padding: 10px 15px;
+  font-size: 18px;
+  cursor: pointer;
+  align-self: right;
+  transform: rotate();
+}
